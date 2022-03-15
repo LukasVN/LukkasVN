@@ -3,7 +3,7 @@
 - 📚 I’m currently on my first year in a professional training of Mult-Platform App Development.
 - 🌱 At the moment the only programming language that I'm learning is Java because it is the one that we use in the course, but I'm looking forward to learn C# or C++ 
       and Unity/Unreal in the future. 
-- 💻 This account will contain my class projects/activities (Public) and personal projects (Private).
+- 💻 This account will contain my class projects/activities (Public and in spanish) and personal projects (Private).
 - 📫 How to reach me --> lucasvnbusiness@gmail.com
 
 <!---
